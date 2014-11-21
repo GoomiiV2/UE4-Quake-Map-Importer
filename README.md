@@ -19,7 +19,6 @@ TODO:
 * Add suport for HL1 format maps
 * UI and menus
 * Cose tidy ups
-* 
 
 Current Progress Image:
 ====
