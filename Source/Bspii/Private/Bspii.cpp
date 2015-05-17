@@ -40,8 +40,6 @@ void FBspii::OnMenuButtonClicked()
 	BspiiUtils.SpawnTestCubeBrush(FVector(100, 500, 500));
 
 	MapParser mp = MapParser(&BspiiUtils);
-	//mp.Load(FString("D:\\NeoLight\\dp\\NeoLight\\maps\\ship.map"));
-	//mp.Load(FString("D:\\E1M1.MAP"));
 	mp.Load(FString("D:\\B_NAIL0.MAP"));
 }
 
